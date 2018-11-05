@@ -2,5 +2,15 @@
   "short_name": "PWAサイト",
   "name": "サンプルのPWAサイト",
   "start_url": "index.html",
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "#fc980c",
+  "icons": [{
+      "src": "icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },{
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
 }
